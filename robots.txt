@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-a1n9wr.pulaucuansite.cfd/sitemap.xml
